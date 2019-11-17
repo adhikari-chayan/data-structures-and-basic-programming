@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Kudvenkat\C#\InnerException\InnerException\bin\Debug\InnerException.exe.config
+C:\My Stuff\Practise Projects\Kudvenkat\C#\InnerException\InnerException\bin\Debug\InnerException.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\InnerException\InnerException\bin\Debug\InnerException.pdb
+C:\My Stuff\Practise Projects\Kudvenkat\C#\InnerException\InnerException\obj\Debug\InnerException.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Kudvenkat\C#\InnerException\InnerException\obj\Debug\InnerException.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Kudvenkat\C#\InnerException\InnerException\obj\Debug\InnerException.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\InnerException\InnerException\obj\Debug\InnerException.pdb

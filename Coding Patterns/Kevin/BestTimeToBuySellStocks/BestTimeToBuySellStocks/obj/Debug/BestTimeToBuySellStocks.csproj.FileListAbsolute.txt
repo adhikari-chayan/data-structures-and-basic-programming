@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\BestTimeToBuySellStocks\BestTimeToBuySellStocks\bin\Debug\BestTimeToBuySellStocks.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\BestTimeToBuySellStocks\BestTimeToBuySellStocks\bin\Debug\BestTimeToBuySellStocks.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\BestTimeToBuySellStocks\BestTimeToBuySellStocks\bin\Debug\BestTimeToBuySellStocks.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\BestTimeToBuySellStocks\BestTimeToBuySellStocks\obj\Debug\BestTimeToBuySellStocks.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\BestTimeToBuySellStocks\BestTimeToBuySellStocks\obj\Debug\BestTimeToBuySellStocks.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\BestTimeToBuySellStocks\BestTimeToBuySellStocks\obj\Debug\BestTimeToBuySellStocks.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\BestTimeToBuySellStocks\BestTimeToBuySellStocks\obj\Debug\BestTimeToBuySellStocks.pdb

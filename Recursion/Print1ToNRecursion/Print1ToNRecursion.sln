@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print1ToNRecursion", "Print1ToNRecursion\Print1ToNRecursion.csproj", "{0A690E26-FDA8-4697-B0DC-8D86D13961AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A690E26-FDA8-4697-B0DC-8D86D13961AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A690E26-FDA8-4697-B0DC-8D86D13961AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A690E26-FDA8-4697-B0DC-8D86D13961AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A690E26-FDA8-4697-B0DC-8D86D13961AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41ED25C-5291-41DC-BC0F-1563AF49F652}
+	EndGlobalSection
+EndGlobal

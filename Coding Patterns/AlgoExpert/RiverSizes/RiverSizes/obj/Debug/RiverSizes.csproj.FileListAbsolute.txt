@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RiverSizes\RiverSizes\bin\Debug\RiverSizes.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RiverSizes\RiverSizes\bin\Debug\RiverSizes.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RiverSizes\RiverSizes\bin\Debug\RiverSizes.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RiverSizes\RiverSizes\obj\Debug\RiverSizes.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RiverSizes\RiverSizes\obj\Debug\RiverSizes.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RiverSizes\RiverSizes\obj\Debug\RiverSizes.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RiverSizes\RiverSizes\obj\Debug\RiverSizes.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TwoNumberSum\TwoNumberSum\bin\Debug\TwoNumberSum.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TwoNumberSum\TwoNumberSum\bin\Debug\TwoNumberSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TwoNumberSum\TwoNumberSum\bin\Debug\TwoNumberSum.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TwoNumberSum\TwoNumberSum\obj\Debug\TwoNumberSum.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TwoNumberSum\TwoNumberSum\obj\Debug\TwoNumberSum.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TwoNumberSum\TwoNumberSum\obj\Debug\TwoNumberSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TwoNumberSum\TwoNumberSum\obj\Debug\TwoNumberSum.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TreeFromInorderAndPreOrder\TreeFromInorderAndPreOrder\bin\Debug\TreeFromInorderAndPreOrder.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TreeFromInorderAndPreOrder\TreeFromInorderAndPreOrder\bin\Debug\TreeFromInorderAndPreOrder.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TreeFromInorderAndPreOrder\TreeFromInorderAndPreOrder\bin\Debug\TreeFromInorderAndPreOrder.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TreeFromInorderAndPreOrder\TreeFromInorderAndPreOrder\obj\Debug\TreeFromInorderAndPreOrder.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TreeFromInorderAndPreOrder\TreeFromInorderAndPreOrder\obj\Debug\TreeFromInorderAndPreOrder.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TreeFromInorderAndPreOrder\TreeFromInorderAndPreOrder\obj\Debug\TreeFromInorderAndPreOrder.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\TreeFromInorderAndPreOrder\TreeFromInorderAndPreOrder\obj\Debug\TreeFromInorderAndPreOrder.pdb

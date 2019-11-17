@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MoviesOnFlight\MoviesOnFlight\bin\Debug\MoviesOnFlight.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MoviesOnFlight\MoviesOnFlight\bin\Debug\MoviesOnFlight.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MoviesOnFlight\MoviesOnFlight\bin\Debug\MoviesOnFlight.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MoviesOnFlight\MoviesOnFlight\obj\Debug\MoviesOnFlight.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MoviesOnFlight\MoviesOnFlight\obj\Debug\MoviesOnFlight.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MoviesOnFlight\MoviesOnFlight\obj\Debug\MoviesOnFlight.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MoviesOnFlight\MoviesOnFlight\obj\Debug\MoviesOnFlight.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Print1ToNRecursion\Print1ToNRecursion\bin\Debug\Print1ToNRecursion.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Print1ToNRecursion\Print1ToNRecursion\bin\Debug\Print1ToNRecursion.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Print1ToNRecursion\Print1ToNRecursion\bin\Debug\Print1ToNRecursion.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Print1ToNRecursion\Print1ToNRecursion\obj\Debug\Print1ToNRecursion.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Print1ToNRecursion\Print1ToNRecursion\obj\Debug\Print1ToNRecursion.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Print1ToNRecursion\Print1ToNRecursion\obj\Debug\Print1ToNRecursion.pdb

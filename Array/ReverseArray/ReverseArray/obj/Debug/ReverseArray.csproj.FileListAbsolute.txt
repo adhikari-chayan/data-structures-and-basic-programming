@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Array Problems\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\My Stuff\Practise Projects\Array Problems\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe
+C:\My Stuff\Practise Projects\Array Problems\ReverseArray\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\My Stuff\Practise Projects\Array Problems\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Array Problems\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Array Problems\ReverseArray\ReverseArray\obj\Debug\ReverseArray.exe
+C:\My Stuff\Practise Projects\Array Problems\ReverseArray\ReverseArray\obj\Debug\ReverseArray.pdb

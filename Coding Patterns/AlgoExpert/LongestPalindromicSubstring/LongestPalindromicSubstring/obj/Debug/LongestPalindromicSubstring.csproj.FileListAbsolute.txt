@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\LongestPalindromicSubstring.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\LongestPalindromicSubstring.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\LongestPalindromicSubstring.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.pdb

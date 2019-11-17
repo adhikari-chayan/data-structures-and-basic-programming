@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\SumOfDigitsRecursive\SumOfDigitsRecursive\bin\Debug\SumOfDigitsRecursive.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\SumOfDigitsRecursive\SumOfDigitsRecursive\bin\Debug\SumOfDigitsRecursive.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\SumOfDigitsRecursive\SumOfDigitsRecursive\bin\Debug\SumOfDigitsRecursive.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\SumOfDigitsRecursive\SumOfDigitsRecursive\obj\Debug\SumOfDigitsRecursive.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\SumOfDigitsRecursive\SumOfDigitsRecursive\obj\Debug\SumOfDigitsRecursive.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\SumOfDigitsRecursive\SumOfDigitsRecursive\obj\Debug\SumOfDigitsRecursive.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\SumOfDigitsRecursive\SumOfDigitsRecursive\obj\Debug\SumOfDigitsRecursive.pdb

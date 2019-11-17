@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Rachit\DuplicateXorPRoblem\DuplicateXorPRoblem\bin\Debug\DuplicateXorProblem.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Rachit\DuplicateXorPRoblem\DuplicateXorPRoblem\bin\Debug\DuplicateXorProblem.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Rachit\DuplicateXorPRoblem\DuplicateXorPRoblem\bin\Debug\DuplicateXorProblem.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Rachit\DuplicateXorPRoblem\DuplicateXorPRoblem\obj\Debug\DuplicateXorPRoblem.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Rachit\DuplicateXorPRoblem\DuplicateXorPRoblem\obj\Debug\DuplicateXorPRoblem.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Rachit\DuplicateXorPRoblem\DuplicateXorPRoblem\obj\Debug\DuplicateXorProblem.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Rachit\DuplicateXorPRoblem\DuplicateXorPRoblem\obj\Debug\DuplicateXorProblem.pdb

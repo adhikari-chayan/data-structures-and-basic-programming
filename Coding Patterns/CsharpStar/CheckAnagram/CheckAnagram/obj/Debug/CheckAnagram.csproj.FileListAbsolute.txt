@@ -1,0 +1,5 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\CheckAnagram\CheckAnagram\bin\Debug\CheckAnagram.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\CheckAnagram\CheckAnagram\bin\Debug\CheckAnagram.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\CheckAnagram\CheckAnagram\bin\Debug\CheckAnagram.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\CheckAnagram\CheckAnagram\obj\Debug\CheckAnagram.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\CheckAnagram\CheckAnagram\obj\Debug\CheckAnagram.pdb

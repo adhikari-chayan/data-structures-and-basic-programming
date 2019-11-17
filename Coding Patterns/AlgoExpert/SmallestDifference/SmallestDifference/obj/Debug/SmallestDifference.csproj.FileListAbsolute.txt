@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SmallestDifference\SmallestDifference\bin\Debug\SmallestDifference.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SmallestDifference\SmallestDifference\bin\Debug\SmallestDifference.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SmallestDifference\SmallestDifference\bin\Debug\SmallestDifference.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SmallestDifference\SmallestDifference\obj\Debug\SmallestDifference.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SmallestDifference\SmallestDifference\obj\Debug\SmallestDifference.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SmallestDifference\SmallestDifference\obj\Debug\SmallestDifference.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SmallestDifference\SmallestDifference\obj\Debug\SmallestDifference.pdb

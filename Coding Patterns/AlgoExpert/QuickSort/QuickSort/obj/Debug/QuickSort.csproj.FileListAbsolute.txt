@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\QuickSort\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\QuickSort\QuickSort\obj\Debug\QuickSort.pdb

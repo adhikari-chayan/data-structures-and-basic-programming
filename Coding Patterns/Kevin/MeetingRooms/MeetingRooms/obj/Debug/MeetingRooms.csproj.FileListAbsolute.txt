@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MeetingRooms\MeetingRooms\bin\Debug\MeetingRooms.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MeetingRooms\MeetingRooms\bin\Debug\MeetingRooms.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MeetingRooms\MeetingRooms\bin\Debug\MeetingRooms.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MeetingRooms\MeetingRooms\obj\Debug\MeetingRooms.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MeetingRooms\MeetingRooms\obj\Debug\MeetingRooms.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MeetingRooms\MeetingRooms\obj\Debug\MeetingRooms.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MeetingRooms\MeetingRooms\obj\Debug\MeetingRooms.pdb

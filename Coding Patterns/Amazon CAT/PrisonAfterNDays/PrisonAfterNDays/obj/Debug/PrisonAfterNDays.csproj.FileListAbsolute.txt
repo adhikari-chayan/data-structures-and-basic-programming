@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PrisonAfterNDays\PrisonAfterNDays\bin\Debug\PrisonAfterNDays.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PrisonAfterNDays\PrisonAfterNDays\bin\Debug\PrisonAfterNDays.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PrisonAfterNDays\PrisonAfterNDays\bin\Debug\PrisonAfterNDays.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PrisonAfterNDays\PrisonAfterNDays\obj\Debug\PrisonAfterNDays.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PrisonAfterNDays\PrisonAfterNDays\obj\Debug\PrisonAfterNDays.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PrisonAfterNDays\PrisonAfterNDays\obj\Debug\PrisonAfterNDays.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PrisonAfterNDays\PrisonAfterNDays\obj\Debug\PrisonAfterNDays.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\StringsWithDistinctChars\StringsWithDistinctChars\bin\Debug\StringsWithDistinctChars.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\StringsWithDistinctChars\StringsWithDistinctChars\bin\Debug\StringsWithDistinctChars.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\StringsWithDistinctChars\StringsWithDistinctChars\bin\Debug\StringsWithDistinctChars.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\StringsWithDistinctChars\StringsWithDistinctChars\obj\Debug\StringsWithDistinctChars.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\StringsWithDistinctChars\StringsWithDistinctChars\obj\Debug\StringsWithDistinctChars.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\StringsWithDistinctChars\StringsWithDistinctChars\obj\Debug\StringsWithDistinctChars.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\StringsWithDistinctChars\StringsWithDistinctChars\obj\Debug\StringsWithDistinctChars.pdb

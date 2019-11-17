@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\SortArrayByParity\SortArrayByParity\bin\Debug\SortArrayByParity.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\SortArrayByParity\SortArrayByParity\bin\Debug\SortArrayByParity.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\SortArrayByParity\SortArrayByParity\bin\Debug\SortArrayByParity.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\SortArrayByParity\SortArrayByParity\obj\Debug\SortArrayByParity.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\SortArrayByParity\SortArrayByParity\obj\Debug\SortArrayByParity.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\SortArrayByParity\SortArrayByParity\obj\Debug\SortArrayByParity.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\SortArrayByParity\SortArrayByParity\obj\Debug\SortArrayByParity.pdb

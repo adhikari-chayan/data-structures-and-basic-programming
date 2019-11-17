@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RotateArrayAroundPivot\RotateArrayAroundPivot\bin\Debug\RotateArrayAroundPivot.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RotateArrayAroundPivot\RotateArrayAroundPivot\bin\Debug\RotateArrayAroundPivot.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RotateArrayAroundPivot\RotateArrayAroundPivot\bin\Debug\RotateArrayAroundPivot.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RotateArrayAroundPivot\RotateArrayAroundPivot\obj\Debug\RotateArrayAroundPivot.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RotateArrayAroundPivot\RotateArrayAroundPivot\obj\Debug\RotateArrayAroundPivot.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RotateArrayAroundPivot\RotateArrayAroundPivot\obj\Debug\RotateArrayAroundPivot.pdb

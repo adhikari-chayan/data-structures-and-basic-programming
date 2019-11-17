@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent\bin\Debug\MaxSubsetSumNoAdjacent.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent\bin\Debug\MaxSubsetSumNoAdjacent.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent\bin\Debug\MaxSubsetSumNoAdjacent.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent\obj\Debug\MaxSubsetSumNoAdjacent.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent\obj\Debug\MaxSubsetSumNoAdjacent.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent\obj\Debug\MaxSubsetSumNoAdjacent.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent\obj\Debug\MaxSubsetSumNoAdjacent.pdb

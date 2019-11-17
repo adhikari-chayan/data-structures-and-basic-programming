@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RemoveObstacle\RemoveObstacle\bin\Debug\RemoveObstacle.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RemoveObstacle\RemoveObstacle\bin\Debug\RemoveObstacle.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RemoveObstacle\RemoveObstacle\bin\Debug\RemoveObstacle.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RemoveObstacle\RemoveObstacle\obj\Debug\RemoveObstacle.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RemoveObstacle\RemoveObstacle\obj\Debug\RemoveObstacle.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RemoveObstacle\RemoveObstacle\obj\Debug\RemoveObstacle.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\RemoveObstacle\RemoveObstacle\obj\Debug\RemoveObstacle.pdb

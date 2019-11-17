@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\DoubleLinkedListProject.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\DoubleLinkedListProject.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\DoubleLinkedListProject.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\DoubleLinkedListProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\DoubleLinkedListProject.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\DoubleLinkedListProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\DoubleLinkedListProject.pdb

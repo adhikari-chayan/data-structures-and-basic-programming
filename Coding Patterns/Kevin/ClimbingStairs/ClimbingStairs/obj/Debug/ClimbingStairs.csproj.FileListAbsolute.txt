@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.pdb

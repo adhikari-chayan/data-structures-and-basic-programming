@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MinCostToConnectRopes\MinCostToConnectRopes\bin\Debug\MinCostToConnectRopes.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MinCostToConnectRopes\MinCostToConnectRopes\bin\Debug\MinCostToConnectRopes.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MinCostToConnectRopes\MinCostToConnectRopes\bin\Debug\MinCostToConnectRopes.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MinCostToConnectRopes\MinCostToConnectRopes\obj\Debug\MinCostToConnectRopes.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MinCostToConnectRopes\MinCostToConnectRopes\obj\Debug\MinCostToConnectRopes.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MinCostToConnectRopes\MinCostToConnectRopes\obj\Debug\MinCostToConnectRopes.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\MinCostToConnectRopes\MinCostToConnectRopes\obj\Debug\MinCostToConnectRopes.pdb

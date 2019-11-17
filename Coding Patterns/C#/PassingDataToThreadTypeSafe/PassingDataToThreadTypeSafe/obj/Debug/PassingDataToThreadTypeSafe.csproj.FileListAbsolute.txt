@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\Kudvenkat\C#\PassingDataToThreadTypeSafe\PassingDataToThreadTypeSafe\bin\Debug\PassingDataToThreadTypeSafe.exe.config
+C:\My Stuff\Practise Projects\Kudvenkat\C#\PassingDataToThreadTypeSafe\PassingDataToThreadTypeSafe\bin\Debug\PassingDataToThreadTypeSafe.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\PassingDataToThreadTypeSafe\PassingDataToThreadTypeSafe\bin\Debug\PassingDataToThreadTypeSafe.pdb
+C:\My Stuff\Practise Projects\Kudvenkat\C#\PassingDataToThreadTypeSafe\PassingDataToThreadTypeSafe\obj\Debug\PassingDataToThreadTypeSafe.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Kudvenkat\C#\PassingDataToThreadTypeSafe\PassingDataToThreadTypeSafe\obj\Debug\PassingDataToThreadTypeSafe.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\PassingDataToThreadTypeSafe\PassingDataToThreadTypeSafe\obj\Debug\PassingDataToThreadTypeSafe.pdb

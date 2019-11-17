@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ThreeNumberSum\ThreeNumberSum\bin\Debug\ThreeNumberSum.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ThreeNumberSum\ThreeNumberSum\bin\Debug\ThreeNumberSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ThreeNumberSum\ThreeNumberSum\bin\Debug\ThreeNumberSum.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ThreeNumberSum\ThreeNumberSum\obj\Debug\ThreeNumberSum.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ThreeNumberSum\ThreeNumberSum\obj\Debug\ThreeNumberSum.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ThreeNumberSum\ThreeNumberSum\obj\Debug\ThreeNumberSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ThreeNumberSum\ThreeNumberSum\obj\Debug\ThreeNumberSum.pdb

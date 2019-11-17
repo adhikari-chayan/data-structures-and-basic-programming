@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LowestCommonManager\LowestCommonManager\bin\Debug\LowestCommonManager.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LowestCommonManager\LowestCommonManager\bin\Debug\LowestCommonManager.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LowestCommonManager\LowestCommonManager\bin\Debug\LowestCommonManager.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LowestCommonManager\LowestCommonManager\obj\Debug\LowestCommonManager.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LowestCommonManager\LowestCommonManager\obj\Debug\LowestCommonManager.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LowestCommonManager\LowestCommonManager\obj\Debug\LowestCommonManager.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LowestCommonManager\LowestCommonManager\obj\Debug\LowestCommonManager.pdb

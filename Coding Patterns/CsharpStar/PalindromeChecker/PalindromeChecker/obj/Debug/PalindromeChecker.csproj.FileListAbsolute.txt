@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb

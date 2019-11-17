@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ResolvingDeadlock\ResolvingDeadlock\bin\Debug\ResolvingDeadlock.exe.config
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ResolvingDeadlock\ResolvingDeadlock\bin\Debug\ResolvingDeadlock.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ResolvingDeadlock\ResolvingDeadlock\bin\Debug\ResolvingDeadlock.pdb
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ResolvingDeadlock\ResolvingDeadlock\obj\Debug\ResolvingDeadlock.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ResolvingDeadlock\ResolvingDeadlock\obj\Debug\ResolvingDeadlock.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ResolvingDeadlock\ResolvingDeadlock\obj\Debug\ResolvingDeadlock.pdb

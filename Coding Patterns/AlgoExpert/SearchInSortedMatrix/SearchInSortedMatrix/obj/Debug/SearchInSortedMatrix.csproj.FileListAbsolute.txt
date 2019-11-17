@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchInSortedMatrix\SearchInSortedMatrix\bin\Debug\SearchInSortedMatrix.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchInSortedMatrix\SearchInSortedMatrix\bin\Debug\SearchInSortedMatrix.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchInSortedMatrix\SearchInSortedMatrix\bin\Debug\SearchInSortedMatrix.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchInSortedMatrix\SearchInSortedMatrix\obj\Debug\SearchInSortedMatrix.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchInSortedMatrix\SearchInSortedMatrix\obj\Debug\SearchInSortedMatrix.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchInSortedMatrix\SearchInSortedMatrix\obj\Debug\SearchInSortedMatrix.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchInSortedMatrix\SearchInSortedMatrix\obj\Debug\SearchInSortedMatrix.pdb

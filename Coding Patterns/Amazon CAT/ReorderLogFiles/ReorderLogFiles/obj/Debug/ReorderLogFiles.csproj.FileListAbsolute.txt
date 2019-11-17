@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\ReorderLogFiles\ReorderLogFiles\bin\Debug\ReorderLogFiles.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\ReorderLogFiles\ReorderLogFiles\bin\Debug\ReorderLogFiles.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\ReorderLogFiles\ReorderLogFiles\bin\Debug\ReorderLogFiles.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\ReorderLogFiles\ReorderLogFiles\obj\Debug\ReorderLogFiles.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\ReorderLogFiles\ReorderLogFiles\obj\Debug\ReorderLogFiles.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\ReorderLogFiles\ReorderLogFiles\obj\Debug\ReorderLogFiles.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\ReorderLogFiles\ReorderLogFiles\obj\Debug\ReorderLogFiles.pdb

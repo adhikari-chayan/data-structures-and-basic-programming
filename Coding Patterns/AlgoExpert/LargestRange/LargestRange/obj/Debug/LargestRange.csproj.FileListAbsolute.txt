@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LargestRange\LargestRange\bin\Debug\LargestRange.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LargestRange\LargestRange\bin\Debug\LargestRange.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LargestRange\LargestRange\bin\Debug\LargestRange.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LargestRange\LargestRange\obj\Debug\LargestRange.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LargestRange\LargestRange\obj\Debug\LargestRange.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LargestRange\LargestRange\obj\Debug\LargestRange.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\LargestRange\LargestRange\obj\Debug\LargestRange.pdb

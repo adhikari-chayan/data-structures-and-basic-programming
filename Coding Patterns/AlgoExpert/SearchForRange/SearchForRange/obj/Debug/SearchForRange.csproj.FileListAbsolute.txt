@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchForRange\SearchForRange\bin\Debug\SearchForRange.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchForRange\SearchForRange\bin\Debug\SearchForRange.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchForRange\SearchForRange\bin\Debug\SearchForRange.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchForRange\SearchForRange\obj\Debug\SearchForRange.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchForRange\SearchForRange\obj\Debug\SearchForRange.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchForRange\SearchForRange\obj\Debug\SearchForRange.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SearchForRange\SearchForRange\obj\Debug\SearchForRange.pdb

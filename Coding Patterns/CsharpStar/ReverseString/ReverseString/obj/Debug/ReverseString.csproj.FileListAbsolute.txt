@@ -1,0 +1,5 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Array Problems\RightRotate\RightRotate\bin\Debug\RightRotate.exe.config
+C:\My Stuff\Practise Projects\Array Problems\RightRotate\RightRotate\bin\Debug\RightRotate.exe
+C:\My Stuff\Practise Projects\Array Problems\RightRotate\RightRotate\bin\Debug\RightRotate.pdb
+C:\My Stuff\Practise Projects\Array Problems\RightRotate\RightRotate\obj\Debug\RightRotate.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Array Problems\RightRotate\RightRotate\obj\Debug\RightRotate.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Array Problems\RightRotate\RightRotate\obj\Debug\RightRotate.exe
+C:\My Stuff\Practise Projects\Array Problems\RightRotate\RightRotate\obj\Debug\RightRotate.pdb

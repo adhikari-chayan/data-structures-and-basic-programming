@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\UnderScorifySubstring\UnderScorifySubstring\bin\Debug\UnderScorifySubstring.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\UnderScorifySubstring\UnderScorifySubstring\bin\Debug\UnderScorifySubstring.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\UnderScorifySubstring\UnderScorifySubstring\bin\Debug\UnderScorifySubstring.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\UnderScorifySubstring\UnderScorifySubstring\obj\Debug\UnderScorifySubstring.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\UnderScorifySubstring\UnderScorifySubstring\obj\Debug\UnderScorifySubstring.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\UnderScorifySubstring\UnderScorifySubstring\obj\Debug\UnderScorifySubstring.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\UnderScorifySubstring\UnderScorifySubstring\obj\Debug\UnderScorifySubstring.pdb

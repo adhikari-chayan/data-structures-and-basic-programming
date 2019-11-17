@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Leetcode\Easy\ToLowerCase\ToLowerCase\bin\Debug\ToLowerCase.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Leetcode\Easy\ToLowerCase\ToLowerCase\bin\Debug\ToLowerCase.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Leetcode\Easy\ToLowerCase\ToLowerCase\bin\Debug\ToLowerCase.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Leetcode\Easy\ToLowerCase\ToLowerCase\obj\Debug\ToLowerCase.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Leetcode\Easy\ToLowerCase\ToLowerCase\obj\Debug\ToLowerCase.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Leetcode\Easy\ToLowerCase\ToLowerCase\obj\Debug\ToLowerCase.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Leetcode\Easy\ToLowerCase\ToLowerCase\obj\Debug\ToLowerCase.pdb

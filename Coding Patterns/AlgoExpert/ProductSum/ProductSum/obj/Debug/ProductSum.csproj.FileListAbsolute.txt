@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ProductSum\ProductSum\bin\Debug\ProductSum.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ProductSum\ProductSum\bin\Debug\ProductSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ProductSum\ProductSum\bin\Debug\ProductSum.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ProductSum\ProductSum\obj\Debug\ProductSum.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ProductSum\ProductSum\obj\Debug\ProductSum.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ProductSum\ProductSum\obj\Debug\ProductSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ProductSum\ProductSum\obj\Debug\ProductSum.pdb

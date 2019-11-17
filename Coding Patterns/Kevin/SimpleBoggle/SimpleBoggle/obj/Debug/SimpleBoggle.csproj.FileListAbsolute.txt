@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SimpleBoggle\SimpleBoggle\bin\Debug\SimpleBoggle.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SimpleBoggle\SimpleBoggle\bin\Debug\SimpleBoggle.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SimpleBoggle\SimpleBoggle\bin\Debug\SimpleBoggle.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SimpleBoggle\SimpleBoggle\obj\Debug\SimpleBoggle.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SimpleBoggle\SimpleBoggle\obj\Debug\SimpleBoggle.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SimpleBoggle\SimpleBoggle\obj\Debug\SimpleBoggle.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\SimpleBoggle\SimpleBoggle\obj\Debug\SimpleBoggle.pdb

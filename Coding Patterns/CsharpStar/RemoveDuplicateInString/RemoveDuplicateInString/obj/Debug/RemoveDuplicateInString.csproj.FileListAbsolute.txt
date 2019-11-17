@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RemoveDuplicateInString\RemoveDuplicateInString\bin\Debug\RemoveDuplicateInString.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RemoveDuplicateInString\RemoveDuplicateInString\bin\Debug\RemoveDuplicateInString.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RemoveDuplicateInString\RemoveDuplicateInString\bin\Debug\RemoveDuplicateInString.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RemoveDuplicateInString\RemoveDuplicateInString\obj\Debug\RemoveDuplicateInString.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RemoveDuplicateInString\RemoveDuplicateInString\obj\Debug\RemoveDuplicateInString.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\RemoveDuplicateInString\RemoveDuplicateInString\obj\Debug\RemoveDuplicateInString.pdb

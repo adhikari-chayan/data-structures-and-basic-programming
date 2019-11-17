@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\YoungestCommonAncestor\YoungestCommonAncestor\bin\Debug\YoungestCommonAncestor.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\YoungestCommonAncestor\YoungestCommonAncestor\bin\Debug\YoungestCommonAncestor.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\YoungestCommonAncestor\YoungestCommonAncestor\bin\Debug\YoungestCommonAncestor.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\YoungestCommonAncestor\YoungestCommonAncestor\obj\Debug\YoungestCommonAncestor.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\YoungestCommonAncestor\YoungestCommonAncestor\obj\Debug\YoungestCommonAncestor.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\YoungestCommonAncestor\YoungestCommonAncestor\obj\Debug\YoungestCommonAncestor.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\YoungestCommonAncestor\YoungestCommonAncestor\obj\Debug\YoungestCommonAncestor.pdb

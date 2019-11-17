@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MostCommonWord\MostCommonWord\bin\Debug\MostCommonWord.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MostCommonWord\MostCommonWord\bin\Debug\MostCommonWord.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MostCommonWord\MostCommonWord\bin\Debug\MostCommonWord.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MostCommonWord\MostCommonWord\obj\Debug\MostCommonWord.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MostCommonWord\MostCommonWord\obj\Debug\MostCommonWord.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MostCommonWord\MostCommonWord\obj\Debug\MostCommonWord.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\MostCommonWord\MostCommonWord\obj\Debug\MostCommonWord.pdb

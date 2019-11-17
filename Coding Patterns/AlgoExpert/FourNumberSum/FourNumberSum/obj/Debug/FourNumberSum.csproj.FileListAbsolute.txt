@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FourNumberSum\FourNumberSum\bin\Debug\FourNumberSum.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FourNumberSum\FourNumberSum\bin\Debug\FourNumberSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FourNumberSum\FourNumberSum\bin\Debug\FourNumberSum.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FourNumberSum\FourNumberSum\obj\Debug\FourNumberSum.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FourNumberSum\FourNumberSum\obj\Debug\FourNumberSum.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FourNumberSum\FourNumberSum\obj\Debug\FourNumberSum.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FourNumberSum\FourNumberSum\obj\Debug\FourNumberSum.pdb

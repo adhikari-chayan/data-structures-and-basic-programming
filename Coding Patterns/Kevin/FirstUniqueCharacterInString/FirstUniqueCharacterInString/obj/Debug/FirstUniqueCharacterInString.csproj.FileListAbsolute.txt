@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\FirstUniqueCharacterInString\FirstUniqueCharacterInString\bin\Debug\FirstUniqueCharacterInString.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\FirstUniqueCharacterInString\FirstUniqueCharacterInString\bin\Debug\FirstUniqueCharacterInString.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\FirstUniqueCharacterInString\FirstUniqueCharacterInString\bin\Debug\FirstUniqueCharacterInString.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\FirstUniqueCharacterInString\FirstUniqueCharacterInString\obj\Debug\FirstUniqueCharacterInString.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\FirstUniqueCharacterInString\FirstUniqueCharacterInString\obj\Debug\FirstUniqueCharacterInString.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\FirstUniqueCharacterInString\FirstUniqueCharacterInString\obj\Debug\FirstUniqueCharacterInString.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\FirstUniqueCharacterInString\FirstUniqueCharacterInString\obj\Debug\FirstUniqueCharacterInString.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\PowerOfTwo\PowerOfTwo\bin\Debug\PowerOfTwo.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\PowerOfTwo\PowerOfTwo\bin\Debug\PowerOfTwo.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\PowerOfTwo\PowerOfTwo\bin\Debug\PowerOfTwo.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\PowerOfTwo\PowerOfTwo\obj\Debug\PowerOfTwo.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\PowerOfTwo\PowerOfTwo\obj\Debug\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\PowerOfTwo\PowerOfTwo\obj\Debug\PowerOfTwo.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\PowerOfTwo\PowerOfTwo\obj\Debug\PowerOfTwo.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FindClosestValueBST\FindClosestValueBST\obj\Debug\FindClosestValueBST.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FindClosestValueBST\FindClosestValueBST\obj\Debug\FindClosestValueBST.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FindClosestValueBST\FindClosestValueBST\bin\Debug\FindClosestValueBST.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FindClosestValueBST\FindClosestValueBST\bin\Debug\FindClosestValueBST.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FindClosestValueBST\FindClosestValueBST\bin\Debug\FindClosestValueBST.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FindClosestValueBST\FindClosestValueBST\obj\Debug\FindClosestValueBST.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\FindClosestValueBST\FindClosestValueBST\obj\Debug\FindClosestValueBST.pdb

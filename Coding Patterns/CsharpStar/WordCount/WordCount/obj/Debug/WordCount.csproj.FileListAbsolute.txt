@@ -1,0 +1,5 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\WordCount\WordCount\obj\Debug\WordCount.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\Kudvenkat\C#\DeadlockInMultithreadingApp\DeadlockInMultithreadingApp\bin\Debug\DeadlockInMultithreadingApp.exe.config
+C:\My Stuff\Practise Projects\Kudvenkat\C#\DeadlockInMultithreadingApp\DeadlockInMultithreadingApp\bin\Debug\DeadlockInMultithreadingApp.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\DeadlockInMultithreadingApp\DeadlockInMultithreadingApp\bin\Debug\DeadlockInMultithreadingApp.pdb
+C:\My Stuff\Practise Projects\Kudvenkat\C#\DeadlockInMultithreadingApp\DeadlockInMultithreadingApp\obj\Debug\DeadlockInMultithreadingApp.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Kudvenkat\C#\DeadlockInMultithreadingApp\DeadlockInMultithreadingApp\obj\Debug\DeadlockInMultithreadingApp.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\DeadlockInMultithreadingApp\DeadlockInMultithreadingApp\obj\Debug\DeadlockInMultithreadingApp.pdb

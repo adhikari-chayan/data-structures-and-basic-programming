@@ -1,0 +1,14 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\PostfixProject\PostfixProject\bin\Debug\PostfixProject.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\PostfixProject\PostfixProject\bin\Debug\PostfixProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\PostfixProject\PostfixProject\bin\Debug\PostfixProject.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\PostfixProject\PostfixProject\obj\Debug\PostfixProject.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\PostfixProject\PostfixProject\obj\Debug\PostfixProject.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\PostfixProject\PostfixProject\obj\Debug\PostfixProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\PostfixProject\PostfixProject\obj\Debug\PostfixProject.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Stack\PostfixProject\PostfixProject\bin\Debug\PostfixProject.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Stack\PostfixProject\PostfixProject\bin\Debug\PostfixProject.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Stack\PostfixProject\PostfixProject\bin\Debug\PostfixProject.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Stack\PostfixProject\PostfixProject\obj\Debug\PostfixProject.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Stack\PostfixProject\PostfixProject\obj\Debug\PostfixProject.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Stack\PostfixProject\PostfixProject\obj\Debug\PostfixProject.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Stack\PostfixProject\PostfixProject\obj\Debug\PostfixProject.pdb

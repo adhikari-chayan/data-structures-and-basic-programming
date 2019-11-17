@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\MajorityElementInUnsortedArray\MajorityElementInUnsortedArray\bin\Debug\MajorityElementInUnsortedArray.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\MajorityElementInUnsortedArray\MajorityElementInUnsortedArray\bin\Debug\MajorityElementInUnsortedArray.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\MajorityElementInUnsortedArray\MajorityElementInUnsortedArray\bin\Debug\MajorityElementInUnsortedArray.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\MajorityElementInUnsortedArray\MajorityElementInUnsortedArray\obj\Debug\MajorityElementInUnsortedArray.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\MajorityElementInUnsortedArray\MajorityElementInUnsortedArray\obj\Debug\MajorityElementInUnsortedArray.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\MajorityElementInUnsortedArray\MajorityElementInUnsortedArray\obj\Debug\MajorityElementInUnsortedArray.pdb

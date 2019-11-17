@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\AllPossibleSubstrings\AllPossibleSubstrings\bin\Debug\AllPossibleSubstrings.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\AllPossibleSubstrings\AllPossibleSubstrings\bin\Debug\AllPossibleSubstrings.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\AllPossibleSubstrings\AllPossibleSubstrings\bin\Debug\AllPossibleSubstrings.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\AllPossibleSubstrings\AllPossibleSubstrings\obj\Debug\AllPossibleSubstrings.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\AllPossibleSubstrings\AllPossibleSubstrings\obj\Debug\AllPossibleSubstrings.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\AllPossibleSubstrings\AllPossibleSubstrings\obj\Debug\AllPossibleSubstrings.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

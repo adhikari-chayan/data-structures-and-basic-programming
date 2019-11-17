@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Factorial\Factorial\obj\Debug\Factorial.pdb

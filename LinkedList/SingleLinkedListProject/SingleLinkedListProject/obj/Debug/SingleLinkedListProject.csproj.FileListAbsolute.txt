@@ -1,0 +1,14 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.pdb
+C:\My Stuff\Practice Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.exe.config
+C:\My Stuff\Practice Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.exe
+C:\My Stuff\Practice Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\bin\Debug\SingleLinkedListProject.pdb
+C:\My Stuff\Practice Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.csprojAssemblyReference.cache
+C:\My Stuff\Practice Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practice Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.exe
+C:\My Stuff\Practice Projects\Data Structure Using C#\SingleLinkedListProject\SingleLinkedListProject\obj\Debug\SingleLinkedListProject.pdb

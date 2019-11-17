@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\DepthFirstAlgorithm\DepthFirstAlgorithm\bin\Debug\DepthFirstAlgorithm.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\DepthFirstAlgorithm\DepthFirstAlgorithm\bin\Debug\DepthFirstAlgorithm.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\DepthFirstAlgorithm\DepthFirstAlgorithm\bin\Debug\DepthFirstAlgorithm.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\DepthFirstAlgorithm\DepthFirstAlgorithm\obj\Debug\DepthFirstAlgorithm.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\DepthFirstAlgorithm\DepthFirstAlgorithm\obj\Debug\DepthFirstAlgorithm.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\DepthFirstAlgorithm\DepthFirstAlgorithm\obj\Debug\DepthFirstAlgorithm.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\DepthFirstAlgorithm\DepthFirstAlgorithm\obj\Debug\DepthFirstAlgorithm.pdb

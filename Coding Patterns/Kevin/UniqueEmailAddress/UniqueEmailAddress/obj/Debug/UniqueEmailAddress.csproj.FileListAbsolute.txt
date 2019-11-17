@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\UniqueEmailAddress\UniqueEmailAddress\bin\Debug\UniqueEmailAddress.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\UniqueEmailAddress\UniqueEmailAddress\bin\Debug\UniqueEmailAddress.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\UniqueEmailAddress\UniqueEmailAddress\bin\Debug\UniqueEmailAddress.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\UniqueEmailAddress\UniqueEmailAddress\obj\Debug\UniqueEmailAddress.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\UniqueEmailAddress\UniqueEmailAddress\obj\Debug\UniqueEmailAddress.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\UniqueEmailAddress\UniqueEmailAddress\obj\Debug\UniqueEmailAddress.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\UniqueEmailAddress\UniqueEmailAddress\obj\Debug\UniqueEmailAddress.pdb

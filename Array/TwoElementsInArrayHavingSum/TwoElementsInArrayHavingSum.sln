@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoElementsInArrayHavingSum", "TwoElementsInArrayHavingSum\TwoElementsInArrayHavingSum.csproj", "{91170690-A4A7-4236-B5D6-8430E4A4DBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91170690-A4A7-4236-B5D6-8430E4A4DBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91170690-A4A7-4236-B5D6-8430E4A4DBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91170690-A4A7-4236-B5D6-8430E4A4DBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91170690-A4A7-4236-B5D6-8430E4A4DBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA37CBB-3DAD-4BEA-A274-F6C14C4B961C}
+	EndGlobalSection
+EndGlobal

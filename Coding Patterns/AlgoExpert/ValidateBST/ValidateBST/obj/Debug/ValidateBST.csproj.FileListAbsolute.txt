@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ValidateBST\ValidateBST\bin\Debug\ValidateBST.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ValidateBST\ValidateBST\bin\Debug\ValidateBST.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ValidateBST\ValidateBST\bin\Debug\ValidateBST.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ValidateBST\ValidateBST\obj\Debug\ValidateBST.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ValidateBST\ValidateBST\obj\Debug\ValidateBST.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ValidateBST\ValidateBST\obj\Debug\ValidateBST.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ValidateBST\ValidateBST\obj\Debug\ValidateBST.pdb

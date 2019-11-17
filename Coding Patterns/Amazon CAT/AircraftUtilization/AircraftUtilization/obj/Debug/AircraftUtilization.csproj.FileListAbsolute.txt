@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\AircraftUtilization\AircraftUtilization\bin\Debug\AircraftUtilization.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\AircraftUtilization\AircraftUtilization\bin\Debug\AircraftUtilization.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\AircraftUtilization\AircraftUtilization\bin\Debug\AircraftUtilization.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\AircraftUtilization\AircraftUtilization\obj\Debug\AircraftUtilization.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\AircraftUtilization\AircraftUtilization\obj\Debug\AircraftUtilization.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\AircraftUtilization\AircraftUtilization\obj\Debug\AircraftUtilization.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\AircraftUtilization\AircraftUtilization\obj\Debug\AircraftUtilization.pdb

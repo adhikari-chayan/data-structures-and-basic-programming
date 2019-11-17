@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PartitionLabel\PartitionLabel\bin\Debug\PartitionLabel.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PartitionLabel\PartitionLabel\bin\Debug\PartitionLabel.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PartitionLabel\PartitionLabel\bin\Debug\PartitionLabel.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PartitionLabel\PartitionLabel\obj\Debug\PartitionLabel.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PartitionLabel\PartitionLabel\obj\Debug\PartitionLabel.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PartitionLabel\PartitionLabel\obj\Debug\PartitionLabel.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PartitionLabel\PartitionLabel\obj\Debug\PartitionLabel.pdb

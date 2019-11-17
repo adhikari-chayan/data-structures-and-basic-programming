@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.pdb

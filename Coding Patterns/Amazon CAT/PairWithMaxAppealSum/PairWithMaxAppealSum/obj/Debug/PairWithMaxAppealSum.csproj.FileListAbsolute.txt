@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PairWithMaxAppealSum\PairWithMaxAppealSum\bin\Debug\PairWithMaxAppealSum.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PairWithMaxAppealSum\PairWithMaxAppealSum\bin\Debug\PairWithMaxAppealSum.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PairWithMaxAppealSum\PairWithMaxAppealSum\bin\Debug\PairWithMaxAppealSum.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PairWithMaxAppealSum\PairWithMaxAppealSum\obj\Debug\PairWithMaxAppealSum.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PairWithMaxAppealSum\PairWithMaxAppealSum\obj\Debug\PairWithMaxAppealSum.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PairWithMaxAppealSum\PairWithMaxAppealSum\obj\Debug\PairWithMaxAppealSum.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\PairWithMaxAppealSum\PairWithMaxAppealSum\obj\Debug\PairWithMaxAppealSum.pdb

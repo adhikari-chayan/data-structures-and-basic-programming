@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\RollingDice\RollingDice\bin\Debug\RollingDice.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\RollingDice\RollingDice\bin\Debug\RollingDice.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\RollingDice\RollingDice\bin\Debug\RollingDice.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\RollingDice\RollingDice\obj\Debug\RollingDice.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\RollingDice\RollingDice\obj\Debug\RollingDice.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\RollingDice\RollingDice\obj\Debug\RollingDice.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\RollingDice\RollingDice\obj\Debug\RollingDice.pdb

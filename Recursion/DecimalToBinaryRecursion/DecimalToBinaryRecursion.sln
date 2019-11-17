@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinaryRecursion", "DecimalToBinaryRecursion\DecimalToBinaryRecursion.csproj", "{6DDA7ABA-CC29-49D6-AA96-08DBEBD17633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDA7ABA-CC29-49D6-AA96-08DBEBD17633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDA7ABA-CC29-49D6-AA96-08DBEBD17633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDA7ABA-CC29-49D6-AA96-08DBEBD17633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDA7ABA-CC29-49D6-AA96-08DBEBD17633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD38A9B-2D73-4EBC-B651-73008ED064E7}
+	EndGlobalSection
+EndGlobal

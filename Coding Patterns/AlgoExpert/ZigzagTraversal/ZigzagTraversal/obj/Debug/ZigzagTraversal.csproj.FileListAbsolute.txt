@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ZigzagTraversal\ZigzagTraversal\bin\Debug\ZigzagTraversal.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ZigzagTraversal\ZigzagTraversal\bin\Debug\ZigzagTraversal.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ZigzagTraversal\ZigzagTraversal\bin\Debug\ZigzagTraversal.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ZigzagTraversal\ZigzagTraversal\obj\Debug\ZigzagTraversal.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ZigzagTraversal\ZigzagTraversal\obj\Debug\ZigzagTraversal.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ZigzagTraversal\ZigzagTraversal\obj\Debug\ZigzagTraversal.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\ZigzagTraversal\ZigzagTraversal\obj\Debug\ZigzagTraversal.pdb

@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BoggleBoard\BoggleBoard\bin\Debug\BoggleBoard.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BoggleBoard\BoggleBoard\bin\Debug\BoggleBoard.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BoggleBoard\BoggleBoard\bin\Debug\BoggleBoard.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BoggleBoard\BoggleBoard\obj\Debug\BoggleBoard.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BoggleBoard\BoggleBoard\obj\Debug\BoggleBoard.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BoggleBoard\BoggleBoard\obj\Debug\BoggleBoard.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BoggleBoard\BoggleBoard\obj\Debug\BoggleBoard.pdb

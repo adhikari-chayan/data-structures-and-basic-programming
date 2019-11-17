@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber\bin\Debug\LetterCombinationsOfPhoneNumber.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber\bin\Debug\LetterCombinationsOfPhoneNumber.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber\bin\Debug\LetterCombinationsOfPhoneNumber.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber\obj\Debug\LetterCombinationsOfPhoneNumber.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber\obj\Debug\LetterCombinationsOfPhoneNumber.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber\obj\Debug\LetterCombinationsOfPhoneNumber.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber\obj\Debug\LetterCombinationsOfPhoneNumber.pdb

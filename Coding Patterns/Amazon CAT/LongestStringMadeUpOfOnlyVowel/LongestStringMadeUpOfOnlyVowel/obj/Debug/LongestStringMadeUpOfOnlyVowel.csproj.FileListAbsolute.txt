@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\LongestStringMadeUpOfOnlyVowel\LongestStringMadeUpOfOnlyVowel\bin\Debug\LongestStringMadeUpOfOnlyVowel.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\LongestStringMadeUpOfOnlyVowel\LongestStringMadeUpOfOnlyVowel\bin\Debug\LongestStringMadeUpOfOnlyVowel.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\LongestStringMadeUpOfOnlyVowel\LongestStringMadeUpOfOnlyVowel\bin\Debug\LongestStringMadeUpOfOnlyVowel.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\LongestStringMadeUpOfOnlyVowel\LongestStringMadeUpOfOnlyVowel\obj\Debug\LongestStringMadeUpOfOnlyVowel.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\LongestStringMadeUpOfOnlyVowel\LongestStringMadeUpOfOnlyVowel\obj\Debug\LongestStringMadeUpOfOnlyVowel.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\LongestStringMadeUpOfOnlyVowel\LongestStringMadeUpOfOnlyVowel\obj\Debug\LongestStringMadeUpOfOnlyVowel.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Coding Patterns\SlidingWindow\LongestStringMadeUpOfOnlyVowel\LongestStringMadeUpOfOnlyVowel\obj\Debug\LongestStringMadeUpOfOnlyVowel.pdb

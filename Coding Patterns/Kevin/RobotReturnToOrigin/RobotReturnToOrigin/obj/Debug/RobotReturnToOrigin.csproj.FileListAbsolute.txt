@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\RobotReturnToOrigin.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\RobotReturnToOrigin.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\RobotReturnToOrigin.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\Kevin\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.pdb

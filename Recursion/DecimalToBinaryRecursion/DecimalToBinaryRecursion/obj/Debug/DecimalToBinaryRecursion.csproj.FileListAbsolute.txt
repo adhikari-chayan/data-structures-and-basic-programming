@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\DecimalToBinaryRecursion\DecimalToBinaryRecursion\bin\Debug\DecimalToBinaryRecursion.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\DecimalToBinaryRecursion\DecimalToBinaryRecursion\bin\Debug\DecimalToBinaryRecursion.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\DecimalToBinaryRecursion\DecimalToBinaryRecursion\bin\Debug\DecimalToBinaryRecursion.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\DecimalToBinaryRecursion\DecimalToBinaryRecursion\obj\Debug\DecimalToBinaryRecursion.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\DecimalToBinaryRecursion\DecimalToBinaryRecursion\obj\Debug\DecimalToBinaryRecursion.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\DecimalToBinaryRecursion\DecimalToBinaryRecursion\obj\Debug\DecimalToBinaryRecursion.pdb

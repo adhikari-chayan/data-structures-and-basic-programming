@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MinSubArraySort\MinSubArraySort\bin\Debug\MinSubArraySort.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MinSubArraySort\MinSubArraySort\bin\Debug\MinSubArraySort.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MinSubArraySort\MinSubArraySort\bin\Debug\MinSubArraySort.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MinSubArraySort\MinSubArraySort\obj\Debug\MinSubArraySort.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MinSubArraySort\MinSubArraySort\obj\Debug\MinSubArraySort.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MinSubArraySort\MinSubArraySort\obj\Debug\MinSubArraySort.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\MinSubArraySort\MinSubArraySort\obj\Debug\MinSubArraySort.pdb

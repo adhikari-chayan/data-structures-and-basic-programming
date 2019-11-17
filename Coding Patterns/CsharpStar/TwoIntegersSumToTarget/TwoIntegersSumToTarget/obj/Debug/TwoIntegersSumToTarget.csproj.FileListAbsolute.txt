@@ -1,0 +1,6 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\TwoIntegersSumToTarget\TwoIntegersSumToTarget\bin\Debug\TwoIntegersSumToTarget.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\TwoIntegersSumToTarget\TwoIntegersSumToTarget\bin\Debug\TwoIntegersSumToTarget.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\TwoIntegersSumToTarget\TwoIntegersSumToTarget\bin\Debug\TwoIntegersSumToTarget.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\TwoIntegersSumToTarget\TwoIntegersSumToTarget\obj\Debug\TwoIntegersSumToTarget.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\TwoIntegersSumToTarget\TwoIntegersSumToTarget\obj\Debug\TwoIntegersSumToTarget.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\CsharpStar\TwoIntegersSumToTarget\TwoIntegersSumToTarget\obj\Debug\TwoIntegersSumToTarget.pdb

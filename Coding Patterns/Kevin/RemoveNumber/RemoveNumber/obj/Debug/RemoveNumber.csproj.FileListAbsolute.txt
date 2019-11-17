@@ -1,0 +1,7 @@
+C:\Users\u0169352\source\repos\RemoveNumber\RemoveNumber\bin\Debug\RemoveNumber.exe.config
+C:\Users\u0169352\source\repos\RemoveNumber\RemoveNumber\bin\Debug\RemoveNumber.exe
+C:\Users\u0169352\source\repos\RemoveNumber\RemoveNumber\bin\Debug\RemoveNumber.pdb
+C:\Users\u0169352\source\repos\RemoveNumber\RemoveNumber\obj\Debug\RemoveNumber.csprojAssemblyReference.cache
+C:\Users\u0169352\source\repos\RemoveNumber\RemoveNumber\obj\Debug\RemoveNumber.csproj.CoreCompileInputs.cache
+C:\Users\u0169352\source\repos\RemoveNumber\RemoveNumber\obj\Debug\RemoveNumber.exe
+C:\Users\u0169352\source\repos\RemoveNumber\RemoveNumber\obj\Debug\RemoveNumber.pdb

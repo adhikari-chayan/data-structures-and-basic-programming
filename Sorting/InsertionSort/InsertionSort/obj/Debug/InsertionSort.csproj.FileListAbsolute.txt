@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\Sorting\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb

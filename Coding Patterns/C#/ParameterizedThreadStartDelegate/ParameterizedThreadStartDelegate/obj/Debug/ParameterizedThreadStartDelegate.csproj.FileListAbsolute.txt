@@ -1,0 +1,5 @@
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ParameterizedThreadStartDelegate\ParameterizedThreadStartDelegate\bin\Debug\ParameterizedThreadStartDelegate.exe.config
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ParameterizedThreadStartDelegate\ParameterizedThreadStartDelegate\bin\Debug\ParameterizedThreadStartDelegate.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ParameterizedThreadStartDelegate\ParameterizedThreadStartDelegate\bin\Debug\ParameterizedThreadStartDelegate.pdb
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ParameterizedThreadStartDelegate\ParameterizedThreadStartDelegate\obj\Debug\ParameterizedThreadStartDelegate.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\ParameterizedThreadStartDelegate\ParameterizedThreadStartDelegate\obj\Debug\ParameterizedThreadStartDelegate.pdb

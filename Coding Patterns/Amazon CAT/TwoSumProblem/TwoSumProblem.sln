@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumProblem", "TwoSumProblem\TwoSumProblem.csproj", "{22077D26-2851-4217-A5EA-712AAE88837F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22077D26-2851-4217-A5EA-712AAE88837F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22077D26-2851-4217-A5EA-712AAE88837F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22077D26-2851-4217-A5EA-712AAE88837F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22077D26-2851-4217-A5EA-712AAE88837F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F183A4-E9B4-440F-B324-35E63E9C36B7}
+	EndGlobalSection
+EndGlobal

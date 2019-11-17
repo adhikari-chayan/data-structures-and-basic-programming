@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\Data Structure Using C#\ParenthesisProject\ParenthesisProject\bin\Debug\ParenthesisProject.exe.config
+C:\My Stuff\Practise Projects\Data Structure Using C#\ParenthesisProject\ParenthesisProject\bin\Debug\ParenthesisProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\ParenthesisProject\ParenthesisProject\bin\Debug\ParenthesisProject.pdb
+C:\My Stuff\Practise Projects\Data Structure Using C#\ParenthesisProject\ParenthesisProject\obj\Debug\ParenthesisProject.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\ParenthesisProject\ParenthesisProject\obj\Debug\ParenthesisProject.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\Data Structure Using C#\ParenthesisProject\ParenthesisProject\obj\Debug\ParenthesisProject.exe
+C:\My Stuff\Practise Projects\Data Structure Using C#\ParenthesisProject\ParenthesisProject\obj\Debug\ParenthesisProject.pdb

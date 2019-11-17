@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\My Stuff\Practise Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\My Stuff\Practise Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\My Stuff\Practise Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\My Stuff\Practise Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

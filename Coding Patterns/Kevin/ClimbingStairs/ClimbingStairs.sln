@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{C8C9EB4A-208B-48CA-9AC2-2D1F9BB7640B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C9EB4A-208B-48CA-9AC2-2D1F9BB7640B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C9EB4A-208B-48CA-9AC2-2D1F9BB7640B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C9EB4A-208B-48CA-9AC2-2D1F9BB7640B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C9EB4A-208B-48CA-9AC2-2D1F9BB7640B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DABA4732-36D8-43DA-905F-C30816F42D26}
+	EndGlobalSection
+EndGlobal

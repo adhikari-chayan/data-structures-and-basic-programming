@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange\obj\Debug\NumberOfWaysToMakeChange.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange\obj\Debug\NumberOfWaysToMakeChange.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange\bin\Debug\NumberOfWaysToMakeChange.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange\bin\Debug\NumberOfWaysToMakeChange.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange\bin\Debug\NumberOfWaysToMakeChange.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange\obj\Debug\NumberOfWaysToMakeChange.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange\obj\Debug\NumberOfWaysToMakeChange.pdb

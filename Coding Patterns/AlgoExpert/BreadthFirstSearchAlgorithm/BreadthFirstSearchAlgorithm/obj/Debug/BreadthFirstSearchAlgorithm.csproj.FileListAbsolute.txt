@@ -1,0 +1,7 @@
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BreadthFirstSearchAlgorithm\BreadthFirstSearchAlgorithm\obj\Debug\BreadthFirstSearchAlgorithm.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BreadthFirstSearchAlgorithm\BreadthFirstSearchAlgorithm\obj\Debug\BreadthFirstSearchAlgorithm.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BreadthFirstSearchAlgorithm\BreadthFirstSearchAlgorithm\bin\Debug\BreadthFirstSearchAlgorithm.exe.config
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BreadthFirstSearchAlgorithm\BreadthFirstSearchAlgorithm\bin\Debug\BreadthFirstSearchAlgorithm.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BreadthFirstSearchAlgorithm\BreadthFirstSearchAlgorithm\bin\Debug\BreadthFirstSearchAlgorithm.pdb
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BreadthFirstSearchAlgorithm\BreadthFirstSearchAlgorithm\obj\Debug\BreadthFirstSearchAlgorithm.exe
+C:\My Stuff\Practise Projects\DataStructureUsingC#\Coding Patterns\AlgoExpert\BreadthFirstSearchAlgorithm\BreadthFirstSearchAlgorithm\obj\Debug\BreadthFirstSearchAlgorithm.pdb
