@@ -1,0 +1,11 @@
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\My Stuff\Practise Projects\Kudvenkat\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
